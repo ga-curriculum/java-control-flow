@@ -2,7 +2,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+Enhance your programming acumen, specifically in controlling the flow of your code with conditional statements and loops, enriching your foundational knowledge for more advanced software development.
 
 ## Prerequisites
 
