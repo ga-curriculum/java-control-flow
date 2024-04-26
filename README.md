@@ -12,39 +12,17 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                               | -- | -- | Setting up the development environment  |
-| [Concepts](./concepts/README.md)                         | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered                     |
-| **Total content**                                        | -- | -- |                                         |
+| Lesson | Time | Learning Objectives |
+| ------ |:----------:|:------ |
+| [Logical Operators and Control Flow](./logical-operators-and-control-flow/README.md) | 25 min | Explain how control flow is implemented in Java using block statements and scope.  |
+| [Conditional Statements and Switch Statements](./conditional-statements-and-switch-statements/README.md) | 20 min |  Examine how the if...else conditionals control program flow based on Boolean conditions. Examine how the switch conditionals control program flow based on explicit conditions.  |
+| [Boolean or Logical Operators](./boolean-or-logical-operators/README.md) | 10 min | Combine and manipulate conditionals using Boolean logic.  |
+| [Comparison Operators](./comparison-operators/README.md)| 10 min | Examine comparison operators to evaluate and compare statements.  |
+| [Loops and Fizz Buzz](./loops-and-fizz-buzz/README.md) | 25 min | Loop over a code block one or more times.  |
+| **Total content**  | 100 min |  |
 
-## Level Up content
-
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-04/README.md) | -- | -- | tktk skills covered                     |
-| **Total Level Up content**                               | -- | -- |                                         |
-
-## References
-
-📖 [Reference Materials](./references/README.md)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
