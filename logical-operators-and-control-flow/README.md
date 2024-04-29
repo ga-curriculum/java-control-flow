@@ -42,8 +42,7 @@ For example:
 ```java
 boolean beautiful = true;
 
-if (beautiful)
-{
+if (beautiful) {
   String name = "lydia";
 }
 
@@ -58,8 +57,7 @@ Variables defined in **block statements** are not available outside of the curly
 boolean beautiful = true;
 String name = "pepe";
 
-if (beautiful)
-{
+if (beautiful) {
   name = "robin"; // Use the predefined variable.
 }
 

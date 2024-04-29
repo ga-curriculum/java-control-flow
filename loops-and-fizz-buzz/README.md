@@ -6,7 +6,7 @@
 
 Looping exists in just about all programming languages. A loop is a statement or block of code that will continue to execute while or until a condition exists.
 
-`while` loops, for example, will run a block of code **while** a condition is `true`. Java has `while` loops and `do...while` loops.
+`while` loops, for example, will run a block of code **while** a condition is `true`. Java has `while` loops,  `do...while` loops, and `for` loops.
 
 The `while` loop is good for basic looping, but there's a possibility it will never run.
 
