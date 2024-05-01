@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/boolean-statements-or-logical-operations.png)
 
 **Learning objective:** By the end of this lesson, students will be able to combine and manipulate conditionals using Boolean logic. 
 

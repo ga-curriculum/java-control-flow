@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/logical-operators-and-control-flow.png)
 
 **Learning objective:** By the end of this lesson, students will be able to explain how control flow is implemented in Java using block statements and scope. 
 

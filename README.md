@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[tktk Module Name]](./assets/java-control-flow.png)
 
 ## About
 
@@ -6,9 +6,7 @@ Enhance your programming acumen, specifically in controlling the flow of your co
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- None.
 
 ## Content
 

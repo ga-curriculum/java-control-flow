@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/comparison-operators.png)
 
 **Learning objective:** By the end of this lesson, students will be able to examine comparison operators to evaluate and compare statements. 
 

@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/conditional-statements-and-switch-statements.png)
 
 **Learning objective:** By the end of this lesson, students will be able to: 
 - Examine how the `if...else` conditionals control program flow based on Boolean conditions. 
