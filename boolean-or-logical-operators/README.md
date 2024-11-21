@@ -1,20 +1,24 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/boolean-statements-or-logical-operations.png)
+<h1>
+  <span class="headline">Java Control Flow</span>
+  <span class="subhead">Boolean or Logical Operators</span>
+</h1>
 
-**Learning objective:** By the end of this lesson, students will be able to combine and manipulate conditionals using Boolean logic. 
+**Learning objective:** By the end of this lesson, students will be able to combine and manipulate conditionals using Boolean logic.
 
 ## Guided Practice: Boolean or Logical Operators (15 min)
 
 [Logical operators](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html) will always return a Boolean value, `true` or `false`.
 
 There are two binary operators that require two values:
+
 - **`AND`**, denoted `&&`.
 - **`OR`**, denoted `||`.
 
 A third unary operator requires only one value:
 
-* **`NOT`**, denoted `!`.
+- **`NOT`**, denoted `!`.
 
-#### `&&` (`AND`)
+### `&&` (`AND`)
 
 The `&&` operator requires both values to its left and right to be `true` in order to evaluate the entire statement as `true`:
 
@@ -52,7 +56,7 @@ if (false && false) {
 System.out.println(result); //=> false
 ```
 
-#### `||` (`OR`)
+### `||` (`OR`)
 
 The `||` operator requires just one of the left or right values to be `true` in order to evaluate the entire statement as `true`.
 
@@ -101,5 +105,3 @@ if (instructor != null && instructor.getName().equals("drew")) {
 In this case, if the first operand, `instructor != null`, is `false`, then the second operand, `instructor.getName().equals("drew")`, will not be evaluated. The expression is basically saying, "We already know the whole `&&` expression is `false` because `instructor != null` is `false`. Why bother dealing with the second operand?"
 
 This is also important because a `NullPointerException` will be thrown if we try to call a method using "dot notation" on a `null` object reference.
-
-_Written by Kristen Tonga_

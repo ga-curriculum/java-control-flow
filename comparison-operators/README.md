@@ -1,6 +1,9 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/comparison-operators.png)
+<h1>
+  <span class="headline">Java Control Flow</span>
+  <span class="subhead">Comparison Operators</span>
+</h1>
 
-**Learning objective:** By the end of this lesson, students will be able to examine comparison operators to evaluate and compare statements. 
+**Learning objective:** By the end of this lesson, students will be able to examine comparison operators to evaluate and compare statements.
 
 ## Demo: Comparison Operators (10 min)
 
@@ -30,7 +33,7 @@ Note that you **cannot** do:
 "Apple" > "Oranges"
 ```
 
-#### Equality Operator `==`
+### Equality Operator `==`
 
 When verifying equality between primitives, use `==`:
 

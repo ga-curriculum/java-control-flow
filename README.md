@@ -1,12 +1,11 @@
-# ![[tktk Module Name]](./assets/java-control-flow.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Java Control Flow</span>
+</h1>
 
 ## About
 
-Enhance your programming acumen, specifically in controlling the flow of your code with conditional statements and loops, enriching your foundational knowledge for more advanced software development.
-
-## Prerequisites
-
-- None.
+tktk Write a short but descriptive summary of the content in this module.
 
 ## Content
 
@@ -16,14 +15,29 @@ Enhance your programming acumen, specifically in controlling the flow of your co
 | [Conditional Statements and Switch Statements](./conditional-statements-and-switch-statements/README.md) | 15 min |  Examine how the if...else conditionals control program flow based on Boolean conditions. Examine how the switch conditionals control program flow based on explicit conditions.  |
 | [Boolean or Logical Operators](./boolean-or-logical-operators/README.md) | 10 min | Combine and manipulate conditionals using Boolean logic.  |
 | [Comparison Operators](./comparison-operators/README.md)| 10 min | Examine comparison operators to evaluate and compare statements.  |
-| [Loops and Fizz Buzz](./loops-and-fizz-buzz/README.md) | 25 min | Loop over a code block one or more times.  |
+| [Loops and FizzBuzz](./loops-and-fizzbuzz/README.md) | 25 min | Loop over a code block one or more times.  |
 | **Total content**  | 90 min |  |
 
+## References
 
-## Internal resources
+📖 [Reference Materials](./references/README.md)
+
+## Internal
+
+### Course landing pages
+
+- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-control-flow/canvas-landing-pages/jsc.html)
+- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-control-flow/canvas-landing-pages/jcd.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-control-flow/canvas-landing-pages/fallback.html)
+
+### Resources
+
+✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+
+🎥 [Video Hub](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**

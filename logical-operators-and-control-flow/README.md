@@ -1,6 +1,9 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/logical-operators-and-control-flow.png)
+<h1>
+  <span class="headline">Java Control Flow</span>
+  <span class="subhead">Logical Operators and Control Flow</span>
+</h1>
 
-**Learning objective:** By the end of this lesson, students will be able to explain how control flow is implemented in Java using block statements and scope. 
+**Learning objective:** By the end of this lesson, students will be able to explain how control flow is implemented in Java using block statements and scope.
 
 ## Opening (5 min)
 
@@ -14,11 +17,9 @@ What varies is the way different control flow components are implemented from la
 
 Java supports a compact set of statements — specifically control flow statements — that you can use to incorporate interactivity in your application.
 
------
-
 ## Introduction: Logical Operators and Control Flow (10 min)
 
-#### Block Statements
+### Block Statements
 
 Statements meant to be executed after a control flow operation will be grouped into a **block statement**. These statements are wrapped around a pair of curly braces:
 
@@ -29,7 +30,7 @@ Statements meant to be executed after a control flow operation will be grouped i
 }
 ```
 
-#### Block Scope
+### Block Scope
 
 Scope changes depending on whether a variable is defined in the class (we use the `mVariableName` convention for these) or in a method (these variables have local scope only and are not available outside that method).
 
@@ -63,5 +64,3 @@ if (beautiful) {
 
 System.out.println(name); //=> robin
 ```
-
-_Written by Kristen Tonga_

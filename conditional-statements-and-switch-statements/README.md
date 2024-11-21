@@ -1,14 +1,18 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/conditional-statements-and-switch-statements.png)
+<h1>
+  <span class="headline">Java Control Flow</span>
+  <span class="subhead">Conditional Statements and Switch Statements</span>
+</h1>
 
-**Learning objective:** By the end of this lesson, students will be able to: 
-- Examine how the `if...else` conditionals control program flow based on Boolean conditions. 
-- Examine how the `switch` conditional control program flow based on explicit conditions. 
+**Learning objective:** By the end of this lesson, students will be able to:
+
+- Examine how the `if...else` conditionals control program flow based on Boolean conditions.
+- Examine how the `switch` conditional control program flow based on explicit conditions.
 
 ## Demo: Conditional Statements (10 min)
 
 Conditional statements are a way of skipping over a block of code if it doesn't pass a Boolean expression. Java supports two conditional statements: `if...else` and `switch`.
 
-#### `if...else` Statements
+### `if...else` Statements
 
 ```java
 if (expr) {
@@ -47,7 +51,7 @@ if (name.equals("puppies")) {
 System.out.println(name); //=> "kittens!!"
 ```
 
-#### Ternary Operator
+### Ternary Operator
 
 Java has a ternary operator for conditional expressions. You can think of the ternary operator as a concise `if...else` in one line:
 
@@ -125,19 +129,17 @@ For example, if you eliminate the `break` statements:
 
 The result would be:
 
-```
+```plaintext
 I like apples 
 No favorite
 ```
 
 If `food = "pear"`, then the output would be:
 
-```
+```plaintext
 I like pears  
 I like apples 
 No favorite
 ```
 
 This isn't what we intended.
-
-_Written by Kristen Tonga_

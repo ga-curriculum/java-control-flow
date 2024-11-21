@@ -1,4 +1,7 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/loops-and-fizz-buzz.png)
+<h1>
+  <span class="headline">Java Control Flow</span>
+  <span class="subhead">Loops and Fizzbuzz</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to tktk
 
@@ -43,20 +46,18 @@ for (int i = 0; i < iterations; i++) {
 Notice the placement of the semicolons. Now, let's take a look at what each of the parts do:
 
 1. `int i = 0;` is the **initialization** phase.
-  - This is executed once, before the loop begins.
-  - Note that `int i` is declared within this phase. This means the lifespan of `i` is limited to within the `for` loop, which is much cleaner and leads to less problems down the line.
+   - This is executed once, before the loop begins.
+   - Note that `int i` is declared within this phase. This means the lifespan of `i` is limited to within the `for` loop, which is much cleaner and leads to less problems down the line.
 
 2. `i < iterations;` is the **termination** phase.
-  - Every time the loop evaluates, it checks this statement.
-  - If this statement evaluates to `false`, the loop terminates.
-  - This is equivalent to the `while` section of the `do...while` loop.
+    - Every time the loop evaluates, it checks this statement.
+    - If this statement evaluates to `false`, the loop terminates.
+    - This is equivalent to the `while` section of the `do...while` loop.
 
 3. `i++` is the **increment** expression.
-  - This happens every time the loop evaluates.
-  - This is equivalent to the `do` section of the `do...while` loop.
-  - In this case, for each loop, `i` is incremented by `1`.
-  
------
+    - This happens every time the loop evaluates.
+    - This is equivalent to the `do` section of the `do...while` loop.
+    - In this case, for each loop, `i` is incremented by `1`.
 
 ## Independent Practice: Fizz Buzz (15 min)
 
@@ -70,11 +71,7 @@ Fizz buzz is a game about division. Create a program that will iterate through n
 
 A typical output would look like this:
 
-<img src="https://i.imgur.com/avioQC8.png" width="400px">
-
-<details> 
-
-<summary>Solution</summary>
+![Output of FizzBuzz](./assets/fizzbuzz-output.png)
 
 ```java
 for (int i = 1; i < 101; i++) {
@@ -91,12 +88,6 @@ for (int i = 1; i < 101; i++) {
 }
 ```
 
-</details>
-
-----
-
 ## Conclusion (5 min)
 
 These are some of the foundational tools you'll use in many of your applications. You'll probably need to refresh yourself on the exact syntax a few times before you memorize it. But it's important to remember these core control flow concepts, because they'll come up in almost every programming language you'll encounter. The Java documentation on [control flow statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html) is a helpful reference.
-
-_Written by Kristen Tonga_
