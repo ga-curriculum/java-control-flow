@@ -3,7 +3,7 @@
   <span class="subhead">Loops and Fizzbuzz</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to
 
 ## Demo: Loops (15 min)
 

@@ -5,7 +5,7 @@
 
 ## About
 
-Enhance your programming acumen, specifically in controlling the flow of your code with conditional statements and loops, enriching your foundational knowledge for more advanced software development.
+tktk Write a short but descriptive summary of the content in this module.
 
 ## Content
 
