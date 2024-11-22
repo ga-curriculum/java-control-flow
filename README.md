@@ -5,7 +5,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In this module, we will be learning how to control program flow, make decisions, compare data, and repeat tasks systematically. These techniques will come handy when you want to write code to validate user inputs, automating processes or building responsive applications.
 
 ## Content
 
