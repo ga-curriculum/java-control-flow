@@ -21,11 +21,12 @@ courses {
     name = "fallback"
     microlessons {
       // add microlessons here, in the order they should be delivered
-      mls.logicalOperatorsAndControlFlow
-      mls.conditionalStatementsAndSwitchStatements
-      mls.booleanOrLogicalOperators
-      mls.comparisonOperators
-      mls.loopsAndFizzbuzz
+      mls.setup
+      mls.concepts
+      mls.conditionalOperators
+      mls.conditionalBranchingStatements
+      mls.loopingStatements
+      mls.unconditionalBranchingStatements
     }
   }
 }

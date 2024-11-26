@@ -2,38 +2,30 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-logicalOperatorsAndControlFlow = new Template.Microlesson {
-  friendlyName = "Logical Operators and Control Flow"
-  dirName = "logical-operators-and-control-flow"
+conditionalOperators = new Template.Microlesson {
+  friendlyName = "Conditional Operators"
+  dirName = "conditional-operators"
   type = "Content"
   videoUrl = ""
 }
 
-conditionalStatementsAndSwitchStatements = new Template.Microlesson {
-  friendlyName = "Conditional Statements and Switch Statements"
-  dirName = "conditional-statements-and-switch-statements"
+conditionalBranchingStatements = new Template.Microlesson {
+  friendlyName = "Conditional Branching Statements"
+  dirName = "conditional-branching-statements"
   type = "Content"
   videoUrl = ""
 }
 
-booleanOrLogicalOperators = new Template.Microlesson {
-  friendlyName = "Boolean or Logical Operators"
-  dirName = "boolean-or-logical-operators"
+loopingStatements = new Template.Microlesson {
+  friendlyName = "Looping Statements"
+  dirName = "looping-statements"
   type = "Content"
   videoUrl = ""
 }
 
-comparisonOperators = new Template.Microlesson {
-  friendlyName = "Comparison Operators"
-  dirName = "comparison-operators"
+unconditionalBranchingStatements = new Template.Microlesson {
+  friendlyName = "Unconditional Branching Statements"
+  dirName = "unconditional-branching-statements"
   type = "Content"
   videoUrl = ""
 }
-
-loopsAndFizzbuzz = new Template.Microlesson {
-  friendlyName = "Loops and Fizzbuzz"
-  dirName = "loops-and-fizzbuzz"
-  type = "Content"
-  videoUrl = ""
-}
-
