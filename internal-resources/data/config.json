@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "jcd",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Logical Operators and Control Flow",
-          "dirName": "logical-operators-and-control-flow",
+          "friendlyName": "Setup",
+          "dirName": "setup",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Conditional Statements and Switch Statements",
-          "dirName": "conditional-statements-and-switch-statements",
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Boolean or Logical Operators",
-          "dirName": "boolean-or-logical-operators",
+          "friendlyName": "Conditional Operators",
+          "dirName": "conditional-operators",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -50,8 +50,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Comparison Operators",
-          "dirName": "comparison-operators",
+          "friendlyName": "Conditional Branching Statements",
+          "dirName": "conditional-branching-statements",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -60,8 +60,18 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Loops and Fizzbuzz",
-          "dirName": "loops-and-fizzbuzz",
+          "friendlyName": "Looping Statements",
+          "dirName": "looping-statements",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Unconditional Branching Statements",
+          "dirName": "unconditional-branching-statements",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

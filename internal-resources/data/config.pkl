@@ -18,7 +18,7 @@ repo {
 
 courses {
   new {
-    name = "fallback"
+    name = "jcd"
     microlessons {
       // add microlessons here, in the order they should be delivered
       mls.setup

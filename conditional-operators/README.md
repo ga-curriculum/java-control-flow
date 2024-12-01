@@ -54,27 +54,6 @@ int age = 16;
 boolean isMinor = age < 18;
 System.out.println(isMinor); // Output: true
 ```
-Example 4: Verifying if a stock price is within a buying threshold
-```java
-double price = 150.75;
-double threshold = 100.00;
-boolean isExpensive = price > threshold;
-System.out.println(isExpensive); // Output: true
-```
-Example 5: Verifying if a checkin luggage weight is within limit
-```java
-int weight = 20;
-int maxWeight = 25;
-boolean isWithinLimit = weight <= maxWeight;
-System.out.println(isWithinLimit); // Output: true
-```
-Example 6: Verifying if a person has got enough points to qualify for a reward
-```java
-int points = 120;
-int requiredPoints = 100;
-boolean qualifiesForReward = points >= requiredPoints;
-System.out.println(qualifiesForReward); // Output: true
-```
 
 ## Logical/Boolean operators
 Logical or operators in Java allow you to combine or invert Boolean expressions, enabling more complex logic. These operators work on true and false values and return a Boolean result. They are often used in conditional checks, but they can also be applied independently for tasks like data validation or logical comparisons.
@@ -114,13 +93,6 @@ boolean hasAccessCard = false;
 boolean canAccessOffice = isEmployee && !hasAccessCard;
 System.out.println(canAccessOffice); // Output: false
 ```
-Example 5: Now, lets make things even more interesting by combining logical and relational operators.
-```java
-int age = 25;
-boolean isStudent = true;
-boolean getsFreeEntry = (age < 18 || age > 60) || isStudent;
-System.out.println(getsFreeEntry); // Output: true
-```
 
 ## Ternary operator
 Now that we are in the subject of conditional operators, lets look at one more conditional operator not related to flow contol. In Java, the Ternary operator  `?`  is a shorthand for conditional expressions. It is used solely to evaluate a condition and return a value. It is used in contexts when the returned value is 
@@ -138,3 +110,49 @@ int speedLimit = 60;
 String status = (speed > speedLimit) ? "Over Speeding" : "Within Limit";
 System.out.println(status); // Output: Over Speeding
 ```
+## Independent Practice
+(20 minutes)
+
+1. Using the appropriate comparison operator, write code to verify if a stock price is expensive in comparsion to a buying threshold. 
+    <details>
+      <summary>Solution</summary>
+      <code class="language-java">  
+        double price = 150.75;
+        double threshold = 100.00;
+        boolean isExpensive = price > threshold;
+        System.out.println(isExpensive); // Output: true
+      </code>
+    </details>
+
+2. Using the appropriate comparison operator, write code to verify if a checkin luggage weight is within a maximum weight limit
+    <details>
+      <summary>Solution</summary>
+      <code class="language-java">  
+        int weight = 20;
+        int maxWeight = 25;
+        boolean isWithinLimit = weight <= maxWeight;
+        System.out.println(isWithinLimit); // Output: true
+      </code>
+    </details>
+
+3. Using the appropriate comparison operator, write code to verify if a person has got enough points to qualify for a reward
+    <details>
+      <summary>Solution</summary>
+      <code class="language-java">  
+        int points = 120;
+        int requiredPoints = 100;
+        boolean qualifiesForReward = points >= requiredPoints;
+        System.out.println(qualifiesForReward); // Output: true
+      </code>
+    </details>
+
+4. By combining appropriate logical and comparison operators, write code to verify is a person is eligible for free entry in a museum. Children below 18 years and seniors above 60 years get a free entry. Students of any educational institution, immaterial of their age, also get a free entry.
+    <details>
+      <summary>Solution</summary>
+      <code class="language-java">  
+        int age = 25;
+        boolean isStudent = true;
+        boolean getsFreeEntry = (age < 18 || age > 60) || isStudent;
+        System.out.println(getsFreeEntry); // Output: true
+      </code>
+    </details>
