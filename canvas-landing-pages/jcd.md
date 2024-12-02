@@ -11,7 +11,7 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md) | 20 min | Set up the development environment. |
+| [Setup](../setup/README.md) | 20 min | Set up the development environment. |
 | [Logical Operators and Control Flow](../logical-operators-and-control-flow/README.md) | 20 min | Explain how control flow is implemented in Java using block statements and scope.  |
 | [Conditional Statements and Switch Statements](../conditional-statements-and-switch-statements/README.md) | 15 min |  Examine how the if...else conditionals control program flow based on Boolean conditions. Examine how the switch conditionals control program flow based on explicit conditions.  |
 | [Boolean or Logical Operators](../boolean-or-logical-operators/README.md) | 10 min | Combine and manipulate conditionals using Boolean logic.  |

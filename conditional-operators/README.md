@@ -111,7 +111,7 @@ String status = (speed > speedLimit) ? "Over Speeding" : "Within Limit";
 System.out.println(status); // Output: Over Speeding
 ```
 ## Independent Practice
-(20 minutes)
+(10 minutes)
 
 1. Using the appropriate comparison operator, write code to verify if a stock price is expensive in comparsion to a buying threshold. 
     <details>

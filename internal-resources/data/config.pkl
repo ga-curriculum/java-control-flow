@@ -29,5 +29,29 @@ courses {
       mls.unconditionalBranchingStatements
     }
   }
+    new {
+    name = "jsc"
+    microlessons {
+      // add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.concepts
+      mls.conditionalOperators
+      mls.conditionalBranchingStatements
+      mls.loopingStatements
+      mls.unconditionalBranchingStatements
+    }
+  }
+    new {
+    name = "fallback"
+    microlessons {
+      // add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.concepts
+      mls.conditionalOperators
+      mls.conditionalBranchingStatements
+      mls.loopingStatements
+      mls.unconditionalBranchingStatements
+    }
+  }
 }
 
