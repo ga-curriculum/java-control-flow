@@ -29,7 +29,7 @@ courses {
       mls.unconditionalBranchingStatements
     }
   }
-    new {
+  new {
     name = "jsc"
     microlessons {
       // add microlessons here, in the order they should be delivered
@@ -41,7 +41,7 @@ courses {
       mls.unconditionalBranchingStatements
     }
   }
-    new {
+  new {
     name = "fallback"
     microlessons {
       // add microlessons here, in the order they should be delivered

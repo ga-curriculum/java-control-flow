@@ -3,7 +3,14 @@
   <span class="subhead">Instructor Guide</span>
 </h1>
 
----
+The solution to the independent practice exercise in the conditional operators microlesson is:
+
+```java
+int speed = 80;
+int speedLimit = 60;
+String status = (speed > speedLimit) ? "Over Speeding" : "Within Limit";
+System.out.println(status); // Output: Over Speeding
+```
 
 🏗️ **Under Construction**
 

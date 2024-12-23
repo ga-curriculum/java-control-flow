@@ -5,19 +5,19 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In this module, you'll learn how to control program flow, make decisions, compare data, and repeat tasks systematically. These techniques will come handy when you want to write code to validate user inputs, automating processes or building responsive applications.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](../setup/README.md) | 20 min | Set up the development environment. |
-| [Logical Operators and Control Flow](../logical-operators-and-control-flow/README.md) | 20 min | Explain how control flow is implemented in Java using block statements and scope.  |
-| [Conditional Statements and Switch Statements](../conditional-statements-and-switch-statements/README.md) | 15 min |  Examine how the if...else conditionals control program flow based on Boolean conditions. Examine how the switch conditionals control program flow based on explicit conditions.  |
-| [Boolean or Logical Operators](../boolean-or-logical-operators/README.md) | 10 min | Combine and manipulate conditionals using Boolean logic.  |
-| [Comparison Operators](../comparison-operators/README.md)| 10 min | Examine comparison operators to evaluate and compare statements.  |
-| [Loops and FizzBuzz](../loops-and-fizzbuzz/README.md) | 25 min | Loop over a code block one or more times.  |
-| **Total content**  | 1 hr 30 min |  |
+| [Setup](../setup/README.md)                                                           |      10 min | Set up the development environment.                                           |
+| [Concepts](../concepts/README.md)                                                     |      10 min | Define and distinguish different types of control flows in computer programs. |
+| [Conditional Operators](../conditional-operators/README.md)                           |      20 min | Write Java code using conditional operators.                                  |
+| [Conditional Branching Statements](../conditional-branching-statements/README.md)     |      20 min |  Manipulate Java program flow control using conditional branching statements. |
+| [Looping Statements](../looping-statements/README.md)                                 |      20 min | Manipulate Java program flow control using looping statements.                |
+| [Unconditional Branching Statements](../unconditional-branching-statements/README.md) |      10 min | Write efficient code for `for` loops and `switch` cases.                      |
+| **Total content**                                                                     | 1 hr 40 min |                                                                               |
 
 ## References
 
