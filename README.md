@@ -17,7 +17,7 @@ In this module, you'll learn how to control program flow, make decisions, compar
 | [Conditional Branching Statements](./conditional-branching-statements/README.md)     |      20 min |  Manipulate Java program flow control using conditional branching statements. |
 | [Looping Statements](./looping-statements/README.md)                                 |      20 min | Manipulate Java program flow control using looping statements.                |
 | [Unconditional Branching Statements](./unconditional-branching-statements/README.md) |      10 min | Write efficient code for `for` loops and `switch` cases.                      |
-| **Total content**                                                                    | 1 hr 40 min |                                                                               |
+| **Total content**                                                                    | 1 hr 30 min |                                                                               |
 
 ## References
 
