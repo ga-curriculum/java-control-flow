@@ -27,8 +27,8 @@ In this module, you'll learn how to control program flow, make decisions, compar
 
 ### Course landing pages
 
-- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-control-flow/canvas-landing-pages/jsc.html)
 - [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-control-flow/canvas-landing-pages/jcd.html)
+- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-control-flow/canvas-landing-pages/jsc.html)
 - [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-control-flow/canvas-landing-pages/fallback.html)
 
 ### Resources
